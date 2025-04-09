@@ -1,7 +1,7 @@
 # Technical Generalist Project
 
 This is a simple Streamlit application that helps students practice solving basic linear equations with one variable.
-
+[See it in action](https://archishadatta-technical-generalist-project-app-4ayoge.streamlit.app/)
 ---
 
 ## 🛠️ Setup Instructions
